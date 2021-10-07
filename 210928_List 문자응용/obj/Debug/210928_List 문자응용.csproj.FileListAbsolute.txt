@@ -1,0 +1,7 @@
+D:\VR미디어콘텐츠\유니티\수업\210928_List 문자응용\210928_List 문자응용\bin\Debug\210928_List 문자응용.exe.config
+D:\VR미디어콘텐츠\유니티\수업\210928_List 문자응용\210928_List 문자응용\bin\Debug\210928_List 문자응용.exe
+D:\VR미디어콘텐츠\유니티\수업\210928_List 문자응용\210928_List 문자응용\bin\Debug\210928_List 문자응용.pdb
+D:\VR미디어콘텐츠\유니티\수업\210928_List 문자응용\210928_List 문자응용\obj\Debug\210928_List 문자응용.csproj.AssemblyReference.cache
+D:\VR미디어콘텐츠\유니티\수업\210928_List 문자응용\210928_List 문자응용\obj\Debug\210928_List 문자응용.csproj.CoreCompileInputs.cache
+D:\VR미디어콘텐츠\유니티\수업\210928_List 문자응용\210928_List 문자응용\obj\Debug\210928_List 문자응용.exe
+D:\VR미디어콘텐츠\유니티\수업\210928_List 문자응용\210928_List 문자응용\obj\Debug\210928_List 문자응용.pdb
